@@ -1,0 +1,48 @@
+#content {
+    background-color: #f6f7f8;
+}
+.blue {
+    color: #5a78f2;
+}
+.bg-blue {
+    background-color: #5a78f2;
+}
+.icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    line-height: 25px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border-style: none;
+}
+.top-card {
+    border-top: 0;
+    max-width: 540px;
+    border-bottom: 0;
+    border-right: 0;
+    border-left-width: 12px;
+    border-radius: 12px;
+}
+.card {
+    border-radius: 12px;
+    border: 0px;
+}
+.purple {
+    background: -webkit-linear-gradient(left, #36d1dc, #5b86e5);
+}
+.soundcloud {
+    background: -webkit-linear-gradient(left, #f7b206, #f78a05);
+}
+.youtube {
+    background: -webkit-linear-gradient(left, #dc281e, #f00000);
+}
+
+.nav-item:hover {
+    background-color: #f7b206;
+    color: #5b86e5;
+}
